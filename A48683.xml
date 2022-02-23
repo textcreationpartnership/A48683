@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A List of persons intercommuned and declared fugitives since the year 1674 for not compearing before the council, or commissions of council to answer for conventicles and such like disorders : whose names are appointed to be affixt by sheriffs ... upon publict places of judicature ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48683</idno>
+            <idno type="STC">Wing L2483</idno>
+            <idno type="STC">ESTC R35412</idno>
+            <idno type="EEBO-CITATION">15277379</idno>
+            <idno type="OCLC">ocm 15277379</idno>
+            <idno type="VID">103364</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103364)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1190:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A List of persons intercommuned and declared fugitives since the year 1674 for not compearing before the council, or commissions of council to answer for conventicles and such like disorders : whose names are appointed to be affixt by sheriffs ... upon publict places of judicature ...</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>16-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Scotland.</term>
+               <term>Scotland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103364:1"/>
+            <head>A LIST Of the Perſons Intercommuned and declared Fugitives, ſince the year 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4. for not compearing before the Council, or Commiſsions of Council, to anſvver for Conventicles and ſuch like Diſorders: <hi>Whoſe Names are appointed to be affixt by Sheriffs and other Magiſtrates, upon the publict places of Judicature, that they may not have the benefite of the Lw in any Proces; and who are to be ſeized upon, and ſecured until they ſubmit themſelves to the Laws, and be relaxed from the Horn.</hi>
+            </head>
+            <head>Follows the Names of ſuch as are Denounced and Intercommuned.</head>
+            <list>
+               <head>Ministers Intercommuned, are,</head>
+               <item>Mr. <hi>James Kirktoun.</hi>
+               </item>
+               <item>Mr. <hi>Alexander Lennox.</hi>
+               </item>
+               <item>Mr. <hi>John Rae.</hi>
+               </item>
+               <item>Mr. <hi>David Home.</hi>
+               </item>
+               <item>Mr. <hi>Edward Jameſon.</hi>
+               </item>
+               <item>Mr. <hi>Robert Lockhart.</hi>
+               </item>
+               <item>Mr. <hi>John Walwood.</hi>
+               </item>
+               <item>Mr. <hi>John Weir.</hi>
+               </item>
+               <item>Mr. <hi>Andrew Donaldſon.</hi>
+               </item>
+               <item>Mr. Thomas M<hi rend="sup">c</hi>gil.</item>
+               <item>Mr. James Wedderburn.</item>
+               <item>Mr. Thomas Dowglas.</item>
+               <item>Mr. Francis Irwing.</item>
+               <item>Mr. Alexander Bartrim.</item>
+               <item>Mr. Alexander Wilſon.</item>
+               <item>Mr. David Williamſon.</item>
+               <item>Mr. Alexander Moncrief.</item>
+               <item>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </item>
+               <item>Mr. Thomas Hog <hi>in Roſs.</hi>
+               </item>
+               <item>Mr. George Johnſtoun.</item>
+               <item>Mr. Robert Gilleſpy.</item>
+               <item>Mr. Iohn Roſs.</item>
+               <item>Mr. Thomas Hog <hi>in</hi> Stirling <hi>Shire.</hi>
+               </item>
+               <item>Mr. William Erskin.</item>
+               <item>Mr. Iohn M<hi rend="sup">c</hi>killikin.</item>
+               <item>Mr. James Donaldſon.</item>
+               <item>Mr. Andrew Anderſon.</item>
+               <item>Mr. Andrew Mortoun.</item>
+               <item>Mr. Donald Cargil.</item>
+               <item>Mr. Robert Maxwels, <hi>elder and younger.</hi>
+               </item>
+               <item>James Frazer <hi>of</hi> Braes.</item>
+               <item>Mr. Iohn King.</item>
+            </list>
+            <list>
+               <head>The Perſons underwritten, Intercommuned, for the moſt, part dwell in <hi>Fife.</hi>
+               </head>
+               <item>Sir Iohn Kirkaldy <hi>of</hi> Grange <hi>elder.</hi>
+               </item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Hamiltoun <hi>of</hi> Kinkel.</item>
+               <item>Iohn Arnots <hi>of</hi> Pitgruvies <hi>elder and younger.</hi>
+               </item>
+               <item>Archbald Arnot <hi>in</hi> Newburgh.</item>
+               <item>Mr. Thomas Arnot <hi>in</hi> Colleſſie.</item>
+               <item>Andrew Arnot <hi>Merchant in</hi> Kirkaldy.</item>
+               <item>Thomas Schaw <hi>elder, of</hi> Goſpitry.</item>
+               <item>David Schaw <hi>his ſon.</hi>
+               </item>
+               <item>Hary Schaw <hi>in</hi> Balgony.</item>
+               <item>William Shithrum <hi>in</hi> Lundymilne.</item>
+               <item>Iohn Miller <hi>in</hi> Dinork.</item>
+               <item>Andrew Kinneir Merchant <hi>in</hi> St. Andrews.</item>
+               <item>Iohn Thomſon <hi>in</hi> Fawfeild.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Dowglas <hi>portioner of</hi> Colſey.</item>
+               <item>Thomas Blyth <hi>Heretor in</hi> Kenoway.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Weims <hi>Lady</hi> Colvil <hi>of</hi> Cleiſh.</item>
+               <item>Iohn Adam <hi>Bailie of</hi> Stramiglo.</item>
+               <item>James Pride <hi>in nether</hi> Urquhart.</item>
+               <item>David Covintry <hi>in</hi> Arlary.</item>
+               <item>Iohn Henderſon <hi>there.</hi>
+               </item>
+               <item>Robert Stark <hi>in the</hi> Milns <hi>of</hi> Forth.</item>
+               <item>William Page <hi>in Couper of</hi> Fife.</item>
+               <item>Iohn White <hi>there.</hi>
+               </item>
+               <item>Richard Clideſdail <hi>there.</hi>
+               </item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Lady <hi>Balcanquel.</hi>
+               </item>
+               <item>Collonel <hi>Robert Halket.</hi>
+               </item>
+               <item>Iohn Smith <hi>in</hi> Dundie.</item>
+               <item>Iohn Balfour <hi>in</hi> Lethum.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Wardlaw, <hi>Heretor in</hi> Kirktoun.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Colvil <hi>Lady Bailie in</hi> Dinno <hi>Paroch.</hi>
+               </item>
+               <item>James Grieve <hi>in St.</hi> Andrews.</item>
+               <item>Mr. James Bonnar <hi>of</hi> Greigſtoun.</item>
+               <item>Iohn Scot <hi>in</hi> Lathons.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Riddel <hi>Lady</hi> Collerny.</item>
+               <item>David <hi>and</hi> Alexander Campbels <hi>in</hi> Kirkaldy</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Simmer <hi>of</hi> Brathneſs.</item>
+               <item>William Crawfurd <hi>of</hi> Powmiln.</item>
+               <item>Iohn Lundy <hi>in</hi> Baldeſtard.</item>
+               <item>Mr. James Lenthron <hi>and</hi> Hellen Ingles <hi>his Spouſe.</hi>
+               </item>
+               <item>Iohn Colvéer <hi>of</hi> Lochgelly.</item>
+               <item>Dame <hi>Anna Riddel</hi> Lady <hi>Collerny.</hi>
+               </item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Ladys <hi>Unthanks</hi> elder and younger.</item>
+               <item>Iohn Balfour <hi>of</hi> Kinloch, <hi>in Collaſy Paroch.</hi>
+               </item>
+               <item>Danse <hi>Margaret Ferqultard,</hi> Lady <hi>Halhill.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The perſons underwritten, Intercommuned, are re<g ref="char:EOLhyphen"/>ſidenters in the Shires of <hi>Stirling</hi> and <hi>Linlithgow.</hi>
+               </head>
+               <item>William Livingſtoun <hi>of</hi> Green Yards.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Ferquharſon <hi>of</hi> Sheilbrae.</item>
+               <item>James Somervel <hi>at the boat of</hi> Cardroſs.</item>
+               <item>Hary Dow <hi>of</hi> Weſter-polder.</item>
+               <item>Iohn Doik <hi>portioner of</hi> Murdiſtoun.</item>
+               <item>The <hi>Lady</hi> Pittendreich <hi>in Logy Paroch.</hi>
+               </item>
+               <item>James Mure <hi>portioner of</hi> Burdiſtoun.</item>
+               <item>Iohn Starks <hi>elder and younger of</hi> Balknok.</item>
+               <item>Francis Galloway <hi>of</hi> Tode-hauch.</item>
+               <item>Simon Alexander <hi>Fewar in</hi> Kirkliſtoun.</item>
+               <item>James Wilkie <hi>tenent in</hi> Cliftounhal.</item>
+            </list>
+            <list>
+               <head>The perſons underwritten, for the moſt part are reſi<g ref="char:EOLhyphen"/>denters in <hi>Fife,</hi> and are denunced, but not intercommuned, <hi>viz.</hi>
+               </head>
+               <item>Robert Sands in Malmuth:</item>
+               <item>James <hi>and</hi> Iohn Ures in Blairgoth:</item>
+               <item>David Shanks in Culroſs.</item>
+               <item>William Burn Merchant <hi>there.</hi>
+               </item>
+               <item>David Mitchel <hi>Chamberlain there.</hi>
+               </item>
+               <item>Robert Blae Maltman, <hi>late Bailie there.</hi>
+               </item>
+               <item>Hary and James Gallotries there.</item>
+               <item>William Adam Merchant there.</item>
+               <item>Gilbert Nidrie there.</item>
+               <item>Adam Pearſon Maltman there.</item>
+               <item>Margaret Anderſon Relict of Robert Sands there.</item>
+               <item>James Cowie and his ſpouſe there.</item>
+               <item>Thomas Mitchel and his ſpouſe in the ſaid Paroch.</item>
+               <item>Richard Bennet Baxter there, and his ſpouſe.</item>
+               <item>James Layng in Balquharn.</item>
+               <item>Iohn Paterſon in third part.</item>
+               <item>Patrick M<hi rend="sup">c</hi>rae in Balquharn.</item>
+               <item>Matthew Provan in Dalmuir.</item>
+               <item>Iohn Henderſon in Kilbin.</item>
+               <item>The Lady Mengertoun.</item>
+               <item>William Fairſoul in nether Pratus.</item>
+               <item>James Myles in Kilme<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie.</item>
+               <item>Henry Corbie there.</item>
+               <item>James Thomſon, Alias Stirling in Kirkaldy.</item>
+               <item>Matthew Anderſon there.</item>
+               <item>James Miller there.</item>
+               <item>Adam Findlay in Kirkady.</item>
+               <item>Thomas Kirkaldy in Grange.</item>
+               <item>Katherin Mitchel Spouſe to Balbedy.</item>
+               <item>Iohn Roſs and his Spouſe in Bruntiſland.</item>
+               <item>Grizel Orrok Spouſe to Iohn Angus there:</item>
+               <item>Elpeth Allan Spouſe to Iohn Allan there:</item>
+               <item>Margaret Melvil Spouſe to Thomas Dewar there:</item>
+               <item>Iſobel Mitchelſon Spouſe to Magnus Ayton there:</item>
+               <item>Mr: Thomas Nairn, Margaret, Jean, and Mary Nairns there:</item>
+               <item>Margaret Phin in Abe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dour, Margaret and Ann Barclays, her daughters:</item>
+               <item>Andrew Turnbul in Broomhall:</item>
+               <item>Iohn Wilkie Taylor in Dumfermling:</item>
+               <item>William Bruce merchant in Culros.</item>
+               <item>James Graige there:</item>
+               <item>Mr: James Wedderburn in Couper:</item>
+               <item>Mr: Alexander Wilſon there:</item>
+               <item>Thomas Scot in Pendreich:</item>
+               <item>William Scot in Eaſter Fordel:</item>
+               <item>David Edward in Pittulloch</item>
+               <item>Iohn Mowbray in Strathmiglo</item>
+               <item>Iohn Henderſon in Arlary:</item>
+               <item>James Rodger in nether Raderine:</item>
+               <item>James Adam there:</item>
+               <item>Iohn Ramſay in Weitfoot:</item>
+               <item>Hary Halkertoun in Greigſtoun:</item>
+               <item>Iohn Henderſon in Pitcothie:</item>
+               <item>George Heining and Agnes Ruſſel his Spouſe:</item>
+               <item>Thomas Wilſon and Robert Watt:</item>
+               <item>Alexander and James Balfours in Gilſtoun:</item>
+               <item>Iohn and John Henderſons in Stentoun:</item>
+               <item>Michael Henderſon and Iohn Moriſon:</item>
+               <item>James Ireland and James Neſs:</item>
+               <item>David Reid and Iohn Murray:</item>
+               <item>Mr: David Watſon and Euphan Mortoun:</item>
+               <item>Mary Greig and Agnes Steinſon:</item>
+               <item>Mr: James and Margaret Allanes:</item>
+               <item>Lowrance Hay:</item>
+               <item>Thomas and James Weddels:</item>
+               <item>Margaret Sibbald and Robert Horn:</item>
+               <item>Iohn Miller in Magus:</item>
+               <item>Andrew Trail in Ceres Town:</item>
+               <item>Alexander Farin in Teſismilne:</item>
+               <item>William Beaty in Ceres miln.</item>
+               <item>David Edward tennent in Pittulloch.</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Lindſay elder and younger of Dowhil.</item>
+               <item>Umphray Murray in Aughtermughty.</item>
+               <item>Miſtreſs <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Colvil in Balvaird.</item>
+               <item>George Simſon in the Man.</item>
+               <item>James Reid in Tullirie.</item>
+               <item>Mr. Iohn Gray, late Miniſter at Orwel.</item>
+               <item>William Duncan called Barron.</item>
+               <item>Alexander and Iohn Thomſons in the mains of Cleiſh.</item>
+               <item>Robert Barclay in the town of Culroſs.</item>
+               <item>David Barclay in Kininmont.</item>
+               <item>James Barclay in Beeth.</item>
+               <item>Robert Robertſon tennent to Balbedie in Bin<g ref="char:EOLhyphen"/>grie Paroch.</item>
+               <item>James Reid tennent there.</item>
+               <item>Robert Meldrum there.</item>
+               <item>William Paton tennent to the Lady Colvil of Cleiſh.</item>
+               <item>David Lundy in Cuthil in Orval Paroch.</item>
+               <item>George Gibſon in Bingrie Paroch.</item>
+               <item>James Nory in Tilliboil Paroch.</item>
+               <item>James Badie, tennent to the Lady Colvir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> In Cleiſh.</item>
+               <item>Andrew Beatſon in that Paroch.</item>
+               <item>Henry and Iohn Bennets at the Bridge-end of Cairny.</item>
+               <item>Mr. Samuel Nairn brother to the Laird of Sun<g ref="char:EOLhyphen"/>foord:</item>
+               <item>Mr: James Rimer in Pitlethy:</item>
+               <item>James Thomſon tennent to Lathallen:</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Miller Limegrieve at Pitleſſie:</item>
+               <item>William Beatie in Ceereſmiln:</item>
+               <item>Thomas Neſs in Ceſſintully:</item>
+               <item>James Neſs in the Teſis:</item>
+               <item>Iohn Wiſhart in Calrinch:</item>
+               <item>David Reddy, lymer in Radernie:</item>
+            </list>
+            <list>
+               <head>List of Perſons declared Fugitive, in the Shires of <hi>Lanerk</hi> and <hi>Dumbarton.</hi>
+               </head>
+               <item>Robert Hamiltoun of Ardry:</item>
+               <item>George Pollok in Water-foot:</item>
+               <item>Iohn Bogle younger in bogleſholl:</item>
+               <item>Robert Hamiltoun in Spitle of Camſlaing:</item>
+               <item>Iohn Sprewl, apothicary in Glaſgow:</item>
+               <item>Iohn Iohnſtoun elder, merchant there.</item>
+               <item>Robert Guiding maltman there:</item>
+               <item>John Baxter in Keppok:</item>
+               <item>Steven Rowand elder, in the weſt end of meikle Govan:</item>
+               <item>Iohn Drew merchand in Glaſgow:</item>
+               <item>Thomas Blakwel merchand there:</item>
+               <item>William Stirling merchand there:</item>
+               <item>Patrick Brice maltman there:</item>
+               <item>Andrew Scot merchand taylour there:</item>
+               <item>Cuthbert Campb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l merchand there:</item>
+               <item>Mr: Thomas Smith apothicary there:</item>
+               <item>Patrick Thomſon merchand there:</item>
+               <item>Iohn Balmanno candlemaker there:</item>
+               <item>Matthew Cumine merchand there:</item>
+               <item>James Boyl merchand there:</item>
+               <item>John Peddy merchand there:</item>
+               <item>Iean Stirling Relict of Achintoſhan:</item>
+               <item>Archbald Calhoun in Kilpatrick:</item>
+               <item>Gavin Walkinſhaw in Cothney:</item>
+               <item>Iohn and Robert M<hi rend="sup">c</hi>raes in Balwhanry:</item>
+               <item>Patrick Laing in Kilpatrick:</item>
+               <item>George M<hi rend="sup">c</hi>nair in Dalmuir:</item>
+               <item>James M<hi rend="sup">c</hi>ldoe in Kilpatrick:</item>
+            </list>
+            <list>
+               <head>Liſt of Perſons declared Fugitive in <hi>Galloway.</hi>
+               </head>
+               <item>Mr. William Gordon of Earlſtoun</item>
+               <item>William Gordon of Holm:</item>
+               <item>Iohn Gordon of Over-bar:</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Neilſon of Corſack:</item>
+               <item>George M<hi rend="sup">c</hi>cartney of Blaiket:</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Maxwel of Hill:</item>
+               <item>Thomas Hay of Park:</item>
+               <item>Patrick M<hi rend="sup">c</hi>dowgal of Freuch:</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> M<hi rend="sup">c</hi>dowgal of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>James Iohnſtoun ſometime Provoſt of Stran<g ref="char:EOLhyphen"/>vairer:</item>
+               <item>William Spittle at the port:</item>
+               <item>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>Iohnſtoun, Collector there:</item>
+               <item>Mr: William Cathcart:</item>
+               <item>The Lady Cranfurdſtoun:</item>
+               <item>Mr: Thomas Vernor, ſometime Miniſter at Bal<g ref="char:EOLhyphen"/>maclellan:</item>
+            </list>
+            <list>
+               <head>Liſt of Perſons declared Fugitives in <hi>Linlith<g ref="char:EOLhyphen"/>gow</hi> and <hi>Stirling</hi> Shires.</head>
+               <item>James Dalein there:</item>
+               <item>Thomas Mowbray in Carloury:</item>
+               <item>William Carmichael:</item>
+               <item>David Lindſay:</item>
+               <item>Alexander Reid younger:</item>
+               <item>Alexander Jaffray:</item>
+               <item>Patrick Liſtoun:</item>
+               <item>James Lindſay:</item>
+               <item>James Tennant:</item>
+               <item>William Lin and Margaret Clerkſon:</item>
+            </list>
+            <list>
+               <head>All Reſidenters in and about <hi>Kirkliſtoun.</hi>
+               </head>
+               <item>Iohn and Andrew Buchannans.</item>
+               <item>James Foſter in blairquarter.</item>
+               <item>David Robertſon in Daſhers.</item>
+               <item>James Mitchel in Gargunok.</item>
+               <item>Arthour Dowgal in Armannel.</item>
+               <item>Mr. George Barclay Miniſter.</item>
+               <item>Robert Forreſter of Bankheid, alias thretty aikers.</item>
+               <item>Adam Bad in Carbrok.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
